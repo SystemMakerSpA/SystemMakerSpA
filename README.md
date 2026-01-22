@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Visita_nuestro_sitio-2563eb?style=for-the-badge&logoColor=white)](https://systemmaker.com)
-[![GitHub](https://img.shields.io/badge/💼_GitHub-1e40af?style=for-the-badge&logo=github)](https://github.com/systemmaker)
-[![Email](https://img.shields.io/badge/📧_Contáctanos-60a5fa?style=for-the-badge)](mailto:info@systemmaker.com)
+[![Website](https://img.shields.io/badge/🌐_Visita_nuestro_sitio-2563eb?style=for-the-badge&logoColor=white)](http://systemmakerspa.com)
+[![GitHub](https://img.shields.io/badge/💼_GitHub-1e40af?style=for-the-badge&logo=github)](https://github.com/SystemMakerSpA)
+[![Email](https://img.shields.io/badge/📧_Contáctanos-60a5fa?style=for-the-badge)](mailto:contacto@systemmaker.com)
 
 ### 💡 **Tu Empresa Merece Mejor Tecnología**
 
@@ -133,19 +133,16 @@ Nuestras soluciones han impactado empresas en:
 
 ---
 
-## 🌟 ¿Por qué Elegir SYSTEMMAKER?
+### 🌟 **¿Por qué elegir SYSTEMMAKER?**
 
-```javascript
-const sistemaker = {
-  experiencia: "Años transformando empresas",
-  especialidad: "Soluciones 100% personalizadas",
-  velocidad: "Implementación ágil y eficiente",
-  soporte: "24/7 sin interrupciones",
-  tecnologia: "Stack moderno y escalable",
-  precio: "Inversión rentable desde día 1",
-  clientela: "Empresas en crecimiento"
-}
-```
+- ✨ **Experiencia:** 5 Años transformando empresas  
+- 🎯 **Especialidad:** Soluciones 100% personalizadas  
+- ⚡ **Velocidad:** Implementación ágil y eficiente  
+- 🛠 **Soporte:** 24/7 sin interrupciones  
+- 🚀 **Tecnología:** Stack moderno y escalable  
+- 💰 **Precio:** Inversión rentable desde el día 1  
+- 📈 **Clientela:** Empresas en crecimiento
+
 
 ### ✅ Garantías SYSTEMMAKER
 
@@ -193,23 +190,9 @@ Frontend          │  Backend           │  Base de Datos
 | Canal | Contacto |
 |-------|----------|
 | 📱 **WhatsApp** | [+56 9 XXXX XXXX](https://wa.me/56912345678) |
-| 📧 **Email** | info@systemmaker.com |
-| 🌐 **Web** | www.systemmaker.com |
-| 💼 **LinkedIn** | [@systemmaker](https://linkedin.com/company/systemmaker) |
-
----
-
-## 📁 Estructura del Proyecto
-
-```
-SystemMakerSpA/
-├── 📄 index.html          # Página de presentación
-├── 🎨 styles.css          # Estilos personalizados
-├── ⚙️ script.js           # Funcionalidades interactivas
-├── 🖼️ img/                # Recursos visuales
-├── 📖 README.md           # Este documento
-└── 🚀 portfolio/          # Proyectos destacados
-```
+| 📧 **Email** | contacto@systemmakerspa.com |
+| 🌐 **Web** | www.systemmakerspa.com |
+| 💼 **LinkedIn** | [@systemmaker](https://linkedin.com/company/SystemMakerSpa) |
 
 ---
 
@@ -252,15 +235,6 @@ Tu Idea/Problema
 
 ---
 
-## 📚 Recursos
-
-- 📖 [Documentación Técnica](docs/)
-- 🎓 [Blog de Soluciones](blog/)
-- 🎬 [Demos y Tutoriales](videos/)
-- 🔗 [API Documentation](docs/api/)
-
----
-
 ## 🌍 Ubicación
 
 **SYSTEMMAKER**  
@@ -272,11 +246,11 @@ Transformando empresas desde Chile 🇨🇱
 
 ### ⭐ Si te gusta lo que hacemos, ¡cuéntale a otros!
 
-[![GitHub Stars](https://img.shields.io/github/stars/systemmaker/repo?style=social)](https://github.com/systemmaker)
+[![GitHub Stars](https://img.shields.io/github/stars/SystemMakerSpA/repo?style=social)](https://github.com/SystemMakerSpA)
 
 ---
 
-**© 2024-2026 SYSTEMMAKER - Todos los derechos reservados**
+**© 2020-2026 SYSTEMMAKER - Todos los derechos reservados**
 
 Creado con 💙 para empresas en crecimiento
 
