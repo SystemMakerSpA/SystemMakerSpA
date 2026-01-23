@@ -1,261 +1,232 @@
-# 🚀 SYSTEMMAKER - Soluciones Informáticas para Empresas PYME
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Visita_nuestro_sitio-2563eb?style=for-the-badge&logoColor=white)](http://systemmakerspa.com)
-[![GitHub](https://img.shields.io/badge/💼_GitHub-1e40af?style=for-the-badge&logo=github)](https://github.com/SystemMakerSpA)
-[![Email](https://img.shields.io/badge/📧_Contáctanos-60a5fa?style=for-the-badge)](mailto:contacto@systemmaker.com)
-
-### 💡 **Tu Empresa Merece Mejor Tecnología**
-
-Transformamos pequeñas y medianas empresas con **soluciones digitales inteligentes, asesorías estratégicas y soporte técnico sin igual**.
-
-[Conoce nuestros servicios](#-servicios-principales) • [Cómo trabajamos](#-metodología-de-trabajo) • [Contacto](#-ponte-en-contacto)
-
-</div>
+<h1 align="center">🚀 SYSTEMMAKER</h1>
+<h3 align="center">Soluciones Informáticas y Asesoría Tecnológica para Empresas</h3>
 
 ---
 
-## 🎯 ¿Qué Hacemos?
+<table>
+<tr>
+<td width="65%">
 
-En **SYSTEMMAKER** creemos que la tecnología debe ser accesible, inteligente y adaptada a tu negocio. No ofrecemos soluciones genéricas... ofrecemos **transformación digital**.
+## 🧠 ¿Qué es SYSTEMMAKER?
 
-```
-┌─────────────────────────────────────────────┐
-│  SYSTEMMAKER                                │
-│                                             │
-│  💻 Sistemas Personalizados                 │
-│  📊 Asesorías Empresariales                 │
-│  🔧 Soporte 24/7                            │
-│  🎯 Soluciones que crecen con tu empresa    │
-└─────────────────────────────────────────────┘
-```
+**SYSTEMMAKER** es un proyecto enfocado en el **diseño, desarrollo e implementación de soluciones informáticas a medida** para empresas que necesitan **orden, control y crecimiento**, sin complejidad innecesaria.
 
----
+No creamos software genérico.  
+Creamos **sistemas que se adaptan a la operación real de cada empresa**.
 
-## 💼 Servicios Principales
+</td>
+<td width="35%" align="right">
 
-### 💻 **Sistemas Personalizados**
-Cada empresa es única, por eso creamos software a la medida de tu operación.
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80" width="100%"/>
 
-**Lo que hacemos:**
-- 🔹 Gestión Administrativa Completa
-- 🔹 Control de Inventarios e Recursos
-- 🔹 Sistemas de Facturación y Contabilidad
-- 🔹 Aplicaciones Web Responsivas
-- 🔹 Dashboards de Analytics en Tiempo Real
-- 🔹 Integración de Sistemas Empresariales
-
-### 📊 **Asesorías Empresariales**
-Desde tu idea inicial hasta empresas consolidadas, te guiamos en cada paso.
-
-**Nuestro valor agregado:**
-- 🔹 Consultoría Estratégica
-- 🔹 Optimización de Procesos Empresariales
-- 🔹 Gestión y Dirección de Proyectos
-- 🔹 Análisis de Rentabilidad
-- 🔹 Transformación Digital
-
-### 🔧 **Soporte y Mantenimiento**
-Tu sistema funcionando al 100% es nuestra prioridad.
-
-**Garantizamos:**
-- 🔹 Mantenimiento Preventivo
-- 🔹 Seguridad de Datos y Backups
-- 🔹 Soporte Técnico Disponible
-- 🔹 Actualizaciones Regulares
-- 🔹 Recuperación ante Emergencias
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Metodología de Trabajo
+## 🎯 Enfoque del Proyecto
 
-Trabajamos en **4 etapas clave** para garantizar el éxito de tu proyecto:
+<table>
+<tr>
+<td width="65%">
 
-### **1️⃣ Diagnóstico**
-```
-┌─────────────────┐
-│  Analizamos tu  │
-│  empresa a      │
-│  profundidad    │
-└─────────────────┘
-        ⬇️
-```
-Conocemos tus procesos, necesidades y desafíos actuales.
+- Optimización de procesos empresariales  
+- Digitalización de operaciones críticas  
+- Centralización de la información  
+- Automatización de tareas repetitivas  
+- Soporte a la toma de decisiones con datos reales  
 
-### **2️⃣ Planificación**
-```
-┌─────────────────┐
-│  Diseñamos la   │
-│  solución ideal │
-│  para ti        │
-└─────────────────┘
-        ⬇️
-```
-Definimos objetivos, timeline y estrategia de implementación.
+Un enfoque **práctico, escalable y orientado a resultados**.
 
-### **3️⃣ Desarrollo & Implementación**
-```
-┌─────────────────┐
-│  Construimos    │
-│  tu solución    │
-│  customizada    │
-└─────────────────┘
-        ⬇️
-```
-Desarrollamos con estándares de calidad internacionales.
+</td>
+<td width="35%" align="right">
 
-### **4️⃣ Capacitación & Soporte**
-```
-┌─────────────────┐
-│  Te capacitamos │
-│  y apoyamos     │
-│  continuamente  │
-└─────────────────┘
-```
-Tu equipo recibe entrenamiento completo y soporte permanente.
+<img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=800&q=80" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Sectores que Transformamos
+## 🛠️ Servicios Principales
 
-Nuestras soluciones han impactado empresas en:
+### 💻 Sistemas Personalizados
 
-| Sector | Soluciones |
-|--------|-----------|
-| 🏪 **Retail & Comercio** | Control de ventas, inventario, análisis de cliente |
-| 🏭 **Manufactura** | Control de producción, proveedores, logística |
-| 📦 **Logística** | Gestión de pedidos, seguimiento, reportes |
-| 💼 **Servicios Profesionales** | CRM, proyectos, facturación, recursos |
-| 🏥 **Salud** | Gestión de pacientes, citas, historiales |
-| 🎓 **Educación** | Gestión académica, calificaciones, comunicación |
-| 🏢 **Administración** | Expedientes, procesos, cumplimiento normativo |
+<table>
+<tr>
+<td width="65%">
 
----
+Desarrollo de software a medida según la operación específica de cada empresa.
 
-### 🌟 **¿Por qué elegir SYSTEMMAKER?**
+**Incluye:**
+- Sistemas administrativos  
+- Control de inventarios  
+- Facturación y gestión interna  
+- Aplicaciones web empresariales  
+- Módulos adaptados a cada necesidad  
 
-- ✨ **Experiencia:** 5 Años transformando empresas  
-- 🎯 **Especialidad:** Soluciones 100% personalizadas  
-- ⚡ **Velocidad:** Implementación ágil y eficiente  
-- 🛠 **Soporte:** 24/7 sin interrupciones  
-- 🚀 **Tecnología:** Stack moderno y escalable  
-- 💰 **Precio:** Inversión rentable desde el día 1  
-- 📈 **Clientela:** Empresas en crecimiento
+</td>
+<td width="35%" align="right">
 
+<img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=800&q=80" width="100%"/>
 
-### ✅ Garantías SYSTEMMAKER
-
-- 🎯 **Solución a medida** - No templates, solo tu sistema
-- ⚡ **Implementación rápida** - Resultados en semanas
-- 🔒 **Seguridad garantizada** - Encriptación y backups
-- 📈 **Escalabilidad** - Crece con tu empresa
-- 💪 **ROI demostrable** - Reducción de costos comprobada
-- 🤝 **Partnership real** - Somos tu socio, no tu proveedor
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Stack Tecnológico
+### 📊 Asesoría Empresarial y Tecnológica
 
-Utilizamos las mejores tecnologías del mercado:
+<table>
+<tr>
+<td width="65%">
 
-```
-Frontend          │  Backend           │  Base de Datos
-────────────────────────────────────────────────────
-⚛️ React          │  Node.js / Python  │  PostgreSQL
-📱 Vue.js         │  Django / FastAPI  │  MongoDB
-🎨 Tailwind CSS   │  .NET / C#         │  Firebase
-📊 Chart.js       │  API RESTful       │  Redis
-```
+Acompañamiento estratégico para transformar ideas en soluciones reales.
 
----
+**Incluye:**
+- Diagnóstico de procesos  
+- Diseño de soluciones digitales  
+- Optimización operacional  
+- Gestión de proyectos  
+- Apoyo en decisiones tecnológicas  
 
-## 💬 ¿Qué Dicen Nuestros Clientes?
+</td>
+<td width="35%" align="right">
 
-> *"SYSTEMMAKER transformó completamente nuestra operación. En 3 meses recuperamos la inversión."*  
-> **— Gerente General, Empresa de Logística**
+<img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80" width="100%"/>
 
-> *"El soporte técnico es excepcional. Nunca hemos tenido problemas sin solución."*  
-> **— Dueño, Tienda Retail**
-
-> *"La consultoría fue tan valiosa como el sistema mismo. Nos abrió los ojos."*  
-> **— Director, Empresa de Servicios**
+</td>
+</tr>
+</table>
 
 ---
 
-## 📧 Ponte en Contacto
+## 👨‍💻 Sobre Nosotros
 
-¿Listo para transformar tu empresa?
+<table>
+<tr>
+<td width="65%">
 
-| Canal | Contacto |
-|-------|----------|
-| 📱 **WhatsApp** | [+56 9 XXXX XXXX](https://wa.me/56912345678) |
-| 📧 **Email** | contacto@systemmakerspa.com |
-| 🌐 **Web** | www.systemmakerspa.com |
-| 💼 **LinkedIn** | [@systemmaker](https://linkedin.com/company/SystemMakerSpa) |
+Somos un equipo de **ingenieros en informática con un enfoque práctico y realista**.  
+Nuestro trabajo no nace desde la teoría, sino desde la **operación diaria de las empresas**.
 
----
+Creemos en:
+- Soluciones simples para problemas complejos  
+- Sistemas que realmente se usan  
+- Tecnología sin adornos innecesarios  
+- Resultados visibles, no promesas vacías  
 
-## 🔄 Nuestro Proceso en 30 Segundos
+No seguimos modas tecnológicas.  
+Elegimos lo que **funciona**, lo que **escala** y lo que **aporta valor real** al negocio.
 
-```
-Tu Idea/Problema
-       ⬇️
-   🔍 Análisis Profundo
-       ⬇️
-   🎯 Planificación Estratégica
-       ⬇️
-   💻 Desarrollo & Testing
-       ⬇️
-   🚀 Implementación y Capacitación
-       ⬇️
-   📊 Soporte Continuo y Evolución
-       ⬇️
-   ✅ Tu Empresa Transformada
-```
+</td>
+<td width="35%" align="right">
+
+<img src="https://camo.githubusercontent.com/1b83608ba56e258ac6954602415a81bddca8c359de06d80970c434833725d32d/68747470733a2f2f64336a32706b6d6a74696e366f752e636c6f756466726f6e742e6e65742f636f64696e672d61742d7468652d7768697465626f6172642d73696c69636f6e2d76616c6c65792e706e67" width="100%" alt="Silicon Valley - Coding at the Whiteboard"/>
+
+</td>
+</tr>
+</table>
+
+> *“Construimos sistemas como deberían construirse: claros, eficientes.”*
 
 ---
 
-## 🎉 Casos de Éxito
+---
 
-### 📈 Caso 1: Comercio Retail
-- **Problema:** Gestión manual, errores en inventario
-- **Solución:** Sistema integral de punto de venta
-- **Resultado:** +40% eficiencia, -30% tiempos operativos
+### 🔧 Soporte y Mantenimiento
 
-### 📊 Caso 2: Empresa de Servicios
-- **Problema:** Dispersión de información, falta de análisis
-- **Solución:** Dashboard centralizado y CRM integrado
-- **Resultado:** +60% productividad del equipo
+<table>
+<tr>
+<td width="65%">
 
-### 🏭 Caso 3: Empresa de Manufactura
-- **Problema:** Procesos desorganizados, pérdida de trazabilidad
-- **Solución:** Sistema ERP personalizado
-- **Resultado:** -50% tiempo de cumplimiento de pedidos
+Garantía de continuidad, seguridad y estabilidad de los sistemas.
+
+**Incluye:**
+- Mantenimiento preventivo  
+- Actualizaciones continuas  
+- Soporte técnico  
+- Seguridad y respaldo de datos  
+- Escalabilidad futura  
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=800&q=80" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Ubicación
+## 🔄 Metodología de Trabajo
 
-**SYSTEMMAKER**  
-Transformando empresas desde Chile 🇨🇱
+<table>
+<tr>
+<td width="65%">
+
+**01. Entender y Mapear**  
+Análisis profundo de procesos y objetivos.
+
+**02. Identificar y Diseñar**  
+Diseño de la solución óptima según el negocio.
+
+**03. Implementar y Entrenar**  
+Desarrollo progresivo y capacitación del equipo.
+
+**04. Medir y Mejorar**  
+KPIs, optimización continua y soporte evolutivo.
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=800&q=80" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## 🧩 Soluciones Tecnológicas
 
-### ⭐ Si te gusta lo que hacemos, ¡cuéntale a otros!
+- ERP Empresarial  
+- CRM de Clientes  
+- Análisis de Datos  
+- Automatización de Procesos (BPM)  
+- Gestión de Recursos Humanos (HRM)  
+- E-Commerce  
+- Gestión de Proyectos  
+- Helpdesk / Ticketing  
 
-[![GitHub Stars](https://img.shields.io/github/stars/SystemMakerSpA/repo?style=social)](https://github.com/SystemMakerSpA)
+Soluciones **modulares, escalables y adaptables**.
 
 ---
 
-**© 2020-2026 SYSTEMMAKER - Todos los derechos reservados**
+## 🧠 Filosofía SYSTEMMAKER
 
-Creado con 💙 para empresas en crecimiento
+> *La tecnología no debe complicar tu empresa, debe hacerla avanzar.*
+
+- Enfoque práctico  
+- Cercanía con el negocio real  
+- Tecnología como herramienta, no como fin  
+- Compromiso con resultados reales  
 
 ---
 
-[⬆ Volver al inicio](#-systemmaker---soluciones-informáticas-para-empresas-pyme)
+<p align="center">
 
-</div>
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo%20Activo-success)
+![Enfoque](https://img.shields.io/badge/Enfoque-Empresarial-blue)
+![Soluciones](https://img.shields.io/badge/Soluciones-A%20Medida-purple)
+
+</p>
+
+---
+
+⭐ **SYSTEMMAKER** representa una visión clara:  
+soluciones reales para empresas reales.
