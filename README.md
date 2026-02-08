@@ -234,12 +234,12 @@ Cada módulo se integra de forma gradual según la madurez y necesidades de tu e
 
 > *La tecnología no debe complicar tu empresa, debe hacerla avanzar.*
 
-Creemos que la tecnología tiene sentido solo cuando **se entiende, se usa y genera resultados visibles**. Evitamos soluciones innecesariamente complejas o cargadas de funciones que nadie utiliza.
+Nos enfocamos en tecnología que **agrega valor al día a día**: que se entiende, se usa y se traduce en indicadores claros de mejora. Si una funcionalidad no aporta nada al negocio, simplemente no la implementamos.
 
-- Enfoque práctico: desarrollamos con los pies en la tierra, priorizando lo que realmente impacta en la operación diaria.  
-- Cercanía con el negocio real: escuchamos a las personas que trabajan día a día en los procesos y construimos soluciones junto a ellas.  
-- Tecnología como herramienta, no como fin: elegimos herramientas y plataformas en función del problema, no por moda.  
-- Compromiso con resultados reales: medimos, ajustamos y mejoramos continuamente para que el sistema aporte valor concreto al negocio.  
+- Enfoque práctico: desarrollamos con los pies en la tierra, priorizando lo que realmente impacta en la operación diaria, no lo que “se ve bonito” en una demo.  
+- Cercanía con el negocio real: escuchamos a las personas que trabajan día a día en los procesos, entendemos sus restricciones y construimos soluciones junto a ellas.  
+- Tecnología como herramienta, no como fin: elegimos herramientas y plataformas en función del problema a resolver y del contexto de la empresa, evitando complejidad innecesaria.  
+- Compromiso con resultados reales: medimos, ajustamos y mejoramos continuamente para que el sistema aporte valor concreto al negocio, ya sea en tiempo, costos, control o calidad de la información.  
 
 </td>
 <td width="35%" align="right">
