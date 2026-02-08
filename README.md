@@ -58,19 +58,21 @@ Un enfoque **práctico, escalable y orientado a resultados**.
 <tr>
 <td width="65%">
 
-Desarrollo de software a medida según la operación específica de cada empresa.
+Desarrollo de **sistemas hechos a la medida** según la operación específica de cada empresa, conectando procesos, personas y datos en una sola plataforma.
+
+No ofrecemos productos genéricos, sino soluciones que se diseñan junto a tu equipo para ajustarse a cómo realmente trabaja tu organización.
 
 **Incluye:**
-- Sistemas administrativos  
-- Control de inventarios  
-- Facturación y gestión interna  
-- Aplicaciones web empresariales  
-- Módulos adaptados a cada necesidad  
+- Sistemas administrativos para el control integral del negocio.  
+- Control de inventarios con trazabilidad y alertas.  
+- Facturación y gestión interna alineada a tus flujos reales.  
+- Aplicaciones web empresariales accesibles desde cualquier lugar.  
+- Módulos adaptados a cada necesidad y etapa de crecimiento.  
 
 </td>
 <td width="35%" align="right">
 
-<img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=800&q=80" width="100%"/>
+<img src="img/sistemas.jpg" width="100%" alt="Sistemas personalizados para empresas"/>
 
 </td>
 </tr>
@@ -252,13 +254,24 @@ Creemos que la tecnología tiene sentido solo cuando **se entiende, se usa y gen
 
 <p align="center">
 
-![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo%20Activo-success)
-![Enfoque](https://img.shields.io/badge/Enfoque-Empresarial-blue)
-![Soluciones](https://img.shields.io/badge/Soluciones-A%20Medida-purple)
+✅ **Estado:** En desarrollo activo y mejora continua.  
+🎯 **Enfoque:** Soluciones tecnológicas con mirada 100% empresarial.  
+🧩 **Soluciones:** Sistemas a medida, modulares y escalables.
 
+</p>
+
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=react,linux" alt="Tecnologías clave: React y Linux" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Estado-En%20Desarrollo%20Activo-success" alt="Estado: En desarrollo activo" />
+	<img src="https://img.shields.io/badge/Enfoque-Empresarial-blue" alt="Enfoque: Empresarial" />
+	<img src="https://img.shields.io/badge/Soluciones-A%20Medida-purple" alt="Soluciones: A medida" />
 </p>
 
 ---
 
 ⭐ **SYSTEMMAKER** representa una visión clara:  
-soluciones reales para empresas reales.
+soluciones reales para empresas reales, construidas con foco en procesos,
+personas y resultados medibles.
