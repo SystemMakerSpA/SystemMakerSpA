@@ -86,14 +86,14 @@ Cada sistema se diseña junto a tu equipo, respetando la forma en que tu organiz
 <tr>
 <td width="65%">
 
-Acompañamiento estratégico para transformar ideas en soluciones reales.
+Acompañamiento estratégico para transformar ideas en soluciones reales, alineando tecnología, procesos y objetivos de negocio. Nos involucramos desde la etapa de diagnóstico hasta la puesta en marcha, para que cada decisión técnica tenga sentido para la operación y los resultados de la empresa.
 
 **Incluye:**
-- Diagnóstico de procesos  
-- Diseño de soluciones digitales  
-- Optimización operacional  
-- Gestión de proyectos  
-- Apoyo en decisiones tecnológicas  
+- Diagnóstico de procesos: levantamiento de flujos, puntos críticos y oportunidades de mejora.  
+- Diseño de soluciones digitales: propuestas claras, priorizadas y aterrizadas a la realidad del negocio.  
+- Optimización operacional: simplificación de tareas, eliminación de reprocesos y reducción de tiempos muertos.  
+- Gestión de proyectos: coordinación, seguimiento y comunicación constante con las áreas involucradas.  
+- Apoyo en decisiones tecnológicas: evaluación de alternativas, riesgos y beneficios antes de invertir.  
 
 </td>
 <td width="35%" align="right">
