@@ -155,7 +155,7 @@ Garantía de continuidad, seguridad y estabilidad de los sistemas.
 </td>
 <td width="35%" align="right">
 
-<img src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=800&q=80" width="100%"/>
+<img src="img/soporte.jpg" width="100%" alt="Equipo de soporte y mantenimiento"/>
 
 </td>
 </tr>
@@ -194,6 +194,10 @@ KPIs, optimización continua y soporte evolutivo.
 
 ## 🧩 Soluciones Tecnológicas
 
+<table>
+<tr>
+<td width="65%">
+
 - ERP Empresarial  
 - CRM de Clientes  
 - Análisis de Datos  
@@ -205,9 +209,22 @@ KPIs, optimización continua y soporte evolutivo.
 
 Soluciones **modulares, escalables y adaptables**.
 
+</td>
+<td width="35%" align="right">
+
+<img src="img/soluciones.jpg" width="100%" alt="Soluciones tecnológicas para empresas"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 Filosofía SYSTEMMAKER
+
+<table>
+<tr>
+<td width="65%">
 
 > *La tecnología no debe complicar tu empresa, debe hacerla avanzar.*
 
@@ -215,6 +232,15 @@ Soluciones **modulares, escalables y adaptables**.
 - Cercanía con el negocio real  
 - Tecnología como herramienta, no como fin  
 - Compromiso con resultados reales  
+
+</td>
+<td width="35%" align="right">
+
+<img src="img/filo.jpg" width="100%" alt="Filosofía y visión de SYSTEMMAKER"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
