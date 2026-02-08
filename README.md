@@ -98,7 +98,7 @@ Acompañamiento estratégico para transformar ideas en soluciones reales.
 </td>
 <td width="35%" align="right">
 
-<img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80" width="100%"/>
+<img src="img/Asesoría.jpg" width="100%" alt="Asesoría empresarial y tecnológica"/>
 
 </td>
 </tr>
