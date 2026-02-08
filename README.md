@@ -60,7 +60,7 @@ Un enfoque **práctico, escalable y orientado a resultados**.
 
 Desarrollo de **sistemas hechos a la medida** según la operación específica de cada empresa, conectando procesos, personas y datos en una sola plataforma. Analizamos cómo funciona hoy tu negocio, qué dolores existen y qué resultados esperas, para traducir todo eso en soluciones digitales claras y utilizables.
 
-No ofrecemos productos genéricos, sino soluciones que se diseñan junto a tu equipo para ajustarse a cómo realmente trabaja tu organización. Cada implementación se construye de forma iterativa, con retroalimentación constante, para asegurar que el sistema acompañe el crecimiento del negocio y no se convierta en una carga.
+Cada sistema se diseña junto a tu equipo, respetando la forma en que tu organización trabaja hoy y la manera en que quiere operar mañana. Las implementaciones se construyen de forma iterativa, con retroalimentación constante, para asegurar que el sistema acompañe el crecimiento del negocio y no se convierta en una carga.
 
 **Incluye:**
 - Sistemas administrativos para el control integral del negocio: ventas, compras, finanzas, clientes y proveedores en un solo lugar.  
