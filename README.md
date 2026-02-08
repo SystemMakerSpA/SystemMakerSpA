@@ -58,16 +58,16 @@ Un enfoque **práctico, escalable y orientado a resultados**.
 <tr>
 <td width="65%">
 
-Desarrollo de **sistemas hechos a la medida** según la operación específica de cada empresa, conectando procesos, personas y datos en una sola plataforma.
+Desarrollo de **sistemas hechos a la medida** según la operación específica de cada empresa, conectando procesos, personas y datos en una sola plataforma. Analizamos cómo funciona hoy tu negocio, qué dolores existen y qué resultados esperas, para traducir todo eso en soluciones digitales claras y utilizables.
 
-No ofrecemos productos genéricos, sino soluciones que se diseñan junto a tu equipo para ajustarse a cómo realmente trabaja tu organización.
+No ofrecemos productos genéricos, sino soluciones que se diseñan junto a tu equipo para ajustarse a cómo realmente trabaja tu organización. Cada implementación se construye de forma iterativa, con retroalimentación constante, para asegurar que el sistema acompañe el crecimiento del negocio y no se convierta en una carga.
 
 **Incluye:**
-- Sistemas administrativos para el control integral del negocio.  
-- Control de inventarios con trazabilidad y alertas.  
-- Facturación y gestión interna alineada a tus flujos reales.  
-- Aplicaciones web empresariales accesibles desde cualquier lugar.  
-- Módulos adaptados a cada necesidad y etapa de crecimiento.  
+- Sistemas administrativos para el control integral del negocio: ventas, compras, finanzas, clientes y proveedores en un solo lugar.  
+- Control de inventarios con trazabilidad y alertas para evitar quiebres de stock, sobreinventario y pérdidas no registradas.  
+- Facturación y gestión interna alineada a tus flujos reales, reduciendo tareas manuales, errores y reprocesos.  
+- Aplicaciones web empresariales accesibles desde cualquier lugar y dispositivo, con distintos perfiles y niveles de acceso.  
+- Módulos adaptados a cada necesidad y etapa de crecimiento, que pueden integrarse de forma gradual sin detener la operación.  
 
 </td>
 <td width="35%" align="right">
