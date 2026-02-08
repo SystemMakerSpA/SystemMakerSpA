@@ -152,6 +152,8 @@ Garantía de continuidad, seguridad y estabilidad de los sistemas.
 - Seguridad y respaldo de datos  
 - Escalabilidad futura  
 
+Trabajamos de forma planificada y proactiva para **evitar paradas inesperadas**, mantener los sistemas siempre actualizados y responder rápidamente ante cualquier incidencia. Nuestro objetivo es que la operación de tu empresa se mantenga estable, segura y disponible, mientras tú te enfocas en el negocio y no en los problemas técnicos.
+
 </td>
 <td width="35%" align="right">
 
@@ -209,6 +211,8 @@ KPIs, optimización continua y soporte evolutivo.
 
 Soluciones **modulares, escalables y adaptables**.
 
+Cada módulo se integra de forma gradual según la madurez y necesidades de tu empresa, permitiendo comenzar por lo más crítico (por ejemplo, control de ventas o inventario) y luego sumar capacidades avanzadas como analítica de datos, automatización de flujos o integración con otras plataformas. Diseñamos arquitecturas pensadas para crecer sin perder estabilidad ni simplicidad en el uso diario.
+
 </td>
 <td width="35%" align="right">
 
@@ -228,10 +232,12 @@ Soluciones **modulares, escalables y adaptables**.
 
 > *La tecnología no debe complicar tu empresa, debe hacerla avanzar.*
 
-- Enfoque práctico  
-- Cercanía con el negocio real  
-- Tecnología como herramienta, no como fin  
-- Compromiso con resultados reales  
+Creemos que la tecnología tiene sentido solo cuando **se entiende, se usa y genera resultados visibles**. Evitamos soluciones innecesariamente complejas o cargadas de funciones que nadie utiliza.
+
+- Enfoque práctico: desarrollamos con los pies en la tierra, priorizando lo que realmente impacta en la operación diaria.  
+- Cercanía con el negocio real: escuchamos a las personas que trabajan día a día en los procesos y construimos soluciones junto a ellas.  
+- Tecnología como herramienta, no como fin: elegimos herramientas y plataformas en función del problema, no por moda.  
+- Compromiso con resultados reales: medimos, ajustamos y mejoramos continuamente para que el sistema aporte valor concreto al negocio.  
 
 </td>
 <td width="35%" align="right">
