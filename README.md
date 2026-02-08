@@ -11,8 +11,7 @@
 
 **SYSTEMMAKER** es un proyecto enfocado en el **diseño, desarrollo e implementación de soluciones informáticas a medida** para empresas que necesitan **orden, control y crecimiento**, sin complejidad innecesaria.
 
-No creamos software genérico.  
-Creamos **sistemas que se adaptan a la operación real de cada empresa**.
+Creamos **sistemas que se adaptan a la operación real de cada empresa**, conectando su forma de trabajar con tecnología clara y usable.
 
 </td>
 <td width="35%" align="right">
