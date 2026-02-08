@@ -273,5 +273,5 @@ Creemos que la tecnología tiene sentido solo cuando **se entiende, se usa y gen
 ---
 
 ⭐ **SYSTEMMAKER** representa una visión clara:  
-soluciones reales para empresas reales, construidas con foco en procesos,
-personas y resultados medibles.
+soluciones tecnológicas reales para empresas reales, diseñadas para optimizar
+procesos, potenciar a las personas y entregar resultados medibles.
